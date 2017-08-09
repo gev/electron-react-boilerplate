@@ -16,12 +16,13 @@
 [![Webpack](/internals/img/webpack-padded-90.png)](https://webpack.github.io/)
 [![Redux](/internals/img/redux-padded-90.png)](http://redux.js.org/)
 [![React Router](/internals/img/react-router-padded-90.png)](https://github.com/ReactTraining/react-router)
+[![React Router](/internals/img/material-ui-padded-90.png)](http://www.material-ui.com)
 [![Flow](/internals/img/flow-padded-90.png)](https://flowtype.org/)
 [![ESLint](/internals/img/eslint-padded-90.png)](http://eslint.org/)
 [![Jest](/internals/img/jest-padded-90.png)](https://facebook.github.io/jest/)
 [![Yarn](/internals/img/yarn-padded-90.png)](https://yarnpkg.com/)
 
-[Electron](http://electron.atom.io/) application boilerplate based on [React](https://facebook.github.io/react/), [Redux](https://github.com/reactjs/redux), [React Router](https://github.com/reactjs/react-router), [Webpack](http://webpack.github.io/docs/), [React Transform HMR](https://github.com/gaearon/react-transform-hmr) for rapid application development.
+[Electron](http://electron.atom.io/) application boilerplate based on [React](https://facebook.github.io/react/), [Redux](https://github.com/reactjs/redux), [React Router](https://github.com/reactjs/react-router), [Material-UI](http://www.material-ui.com), [Webpack](http://webpack.github.io/docs/), [React Transform HMR](https://github.com/gaearon/react-transform-hmr) for rapid application development.
 
 ## Screenshot
 
