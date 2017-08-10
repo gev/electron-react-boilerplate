@@ -3,6 +3,7 @@
   "flow.useNPMPackagedFlow": true,
   "search.exclude": {
     ".git": true,
+    ".history": true,
     ".eslintcache": true,
     "app/dist": true,
     "app/main.prod.js": true,
